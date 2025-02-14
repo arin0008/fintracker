@@ -10,7 +10,7 @@ Finance Manager is an Android Application which contains Income Tax Calculator a
 
 # Screenshots 
   <p>
-<img src="RepoResources/1.jpeg"
+<img src="RepoResources/fi1.jpeg"
      alt="Finance Manager Application"
      height=420 width=190/>
 <img src="RepoResources/2.jpeg"
